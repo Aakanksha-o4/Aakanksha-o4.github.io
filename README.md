@@ -2,6 +2,7 @@
 ## Education
 **Master of Science in Computer Science (August 2023 - December 2024)**  
 State University of New York at Buffalo | CGPA:3.9/4.0
+
 ### Technical Expertise 
 - **Programming Languages:** Java, C++, Python, HTML, CSS, JavaScript
 - **Databases:** MySQL, PostgreSQL, MongoDB, DB2
@@ -30,10 +31,11 @@ Developed a **custom Five-CNN model** for real-time facial emotion detection usi
 - Impact:Achieved 64.1% accuracy on the FER-2013 dataset, with real-time emotion detection capabilities.
 
 ### Cricket Matrix : A Database approach to Cricket Analysis
-Developed a PostgreSQL-based database to analyze player performance across various formats (ODI, Test, T20), enabling data-driven decisions for player selection and performance evaluation. Implemented indexing and optimization strategies to improve the database’s scalability and query efficiency, supporting real-time analytics.
+Developed a **PostgreSQL** based database to analyze player performance across various formats (ODI, Test, T20), enabling data-driven decisions for player selection and performance evaluation. Implemented indexing and optimization strategies to improve the database’s scalability and query efficiency, supporting real-time analytics.
 - Technologies:PostgreSQL, SQL, B-tree Indexing, Data Modeling
 - MY Role:Sourced, preprocessed, and integrated metadata into the database. Oversaw the creation and population of essential tables and collaborated with the team to improve data performance using dummy data.
 - Impact:Optimized data integration for efficient analysis, providing real-time insights into cricket statistics for analysts and enthusiasts.
+  
 ## Certifications
 - Data Science for Engineers by NPTEL with a score of **81%**.
 - Python Data Structures by Coursera with a score of **98%**
