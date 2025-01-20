@@ -12,7 +12,7 @@ State University of New York at Buffalo | CGPA:3.9/4.0
 - **Operating Systems:** Linux/Unix, Windows
   
 ## Work Experience
-**Software Engineer(Java Development and Automation) @ Virtusa (_June 2022 - July 2023_)** [service Letter](https://github.com/Aakanksha-o4/Aakanksha-o4.github.io/blob/main/assets/Service_Letter_Virtusa.jpg)
+**Software Engineer(Java Development and Automation) @ Virtusa (_June 2022 - July 2023_)** [Service Letter](https://github.com/Aakanksha-o4/Aakanksha-o4.github.io/blob/main/assets/Service_Letter_Virtusa.jpg)
 - Developed scalable **Java testing frameworks**, using object-oriented principles, Streams, and **Collections API** to efficiently process datasets and enhance code reusability.
 - Built modular, data-driven test architectures in Java, integrating **Selenium, Maven, and TestNG** to automate **200+ critical test cases**, improving test accuracy and reducing manual testing time by 25%.
  
@@ -22,7 +22,7 @@ State University of New York at Buffalo | CGPA:3.9/4.0
 
 ## Projects
 ### Emotion Detection From Facial Expressions  [project](https://github.com/ChinthaSrikar/Emotion_Recognition_From_Facial_Expressions)
-Developed a **custom Five-CNN model** for real-time facial emotion detection using the **FER-2013 dataset**, achieving **64.1% accuracy**. Integrated **webcam** functionality for live detection and optimized the model with **Cross-Entropy Loss** and the **Adam optimizer** for improved performance.
+Developed a **custom Five-CNN model** for real-time emotion detection using **FER-2013 dataset**, achieving **64.1% accuracy**. Integrated **webcam** functionality for live detection and optimized the model with **Cross-Entropy Loss** and **Adam optimizer** for improved performance.
 - Technologies:Python, TensorFlow, OpenCV
 - Pre-Trained Models:VGG11, VGG16, RESNET34
 - Impact:Achieved 64.1% accuracy on the FER-2013 dataset, with real-time emotion detection capabilities.
