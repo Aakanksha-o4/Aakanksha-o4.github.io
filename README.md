@@ -9,6 +9,7 @@ State University of New York at Buffalo | CGPA:3.9/4.0
 - **Cloud & DevOps:** AWS (Lambda, EC2, S3), Docker
 - **Software Development:** Git, SDLC, OOP, Data Structures & Algorithms
 - **OS:** Linux/Unix, Windows
+  
 ## Work Experience
 **Software Engineer(Java Development and Automation) @ Virtusa (_June 2022 - July 2023_)**
 - Developed scalable Java testing frameworks, using object-oriented principles, Streams, and Collections API to efficiently process datasets and enhance code reusability.
@@ -27,6 +28,7 @@ Developed a **custom Five-CNN model** for real-time facial emotion detection usi
 - Technologies:Python, TensorFlow, OpenCV
 - Pre-Trained Models:VGG11, VGG16, RESNET34
 - Impact:Achieved 64.1% accuracy on the FER-2013 dataset, with real-time emotion detection capabilities.
+
 ### Cricket Matrix : A Database approach to Cricket Analysis
 Developed a PostgreSQL-based database to analyze player performance across various formats (ODI, Test, T20), enabling data-driven decisions for player selection and performance evaluation. Implemented indexing and optimization strategies to improve the database’s scalability and query efficiency, supporting real-time analytics.
 - Technologies:PostgreSQL, SQL, B-tree Indexing, Data Modeling
