@@ -12,11 +12,11 @@ State University of New York at Buffalo | CGPA:3.9/4.0
 - **Operating Systems:** Linux/Unix, Windows
   
 ## Work Experience
-**Software Engineer(Java Development and Automation) @ Virtusa (_Feb 2023 - July 2023_)** [Service Letter](https://github.com/Aakanksha-o4/Aakanksha-o4.github.io/blob/main/assets/Service_Letter_Virtusa.jpg)
+**Software Engineer(Java Development and Automation) @ Virtusa (_Feb 2023 - July 2023_)** 
 - Developed scalable **Java testing frameworks**, using object-oriented principles, Streams, and **Collections API** to efficiently process datasets and enhance code reusability.
 - Built modular, data-driven test architectures in Java, integrating **Selenium, Maven, and TestNG** to automate **200+ critical test cases**, improving test accuracy and reducing manual testing time by 25%.
  
-**Software Engineer(ML and System Integration) @ NTT Data (_Apr 2022 - Jun 2022_)** [Service Letter](https://github.com/Aakanksha-o4/Aakanksha-o4.github.io/blob/main/assets/Serive_Letter_NTT.jpg)
+**Software Engineer(ML and System Integration) @ NTT Data (_Apr 2022 - Jun 2022_)** 
 - Designed end-to-end data pipelines using **BeautifulSoup and Python**, integrating Haystack and Langchain to create a scalable FAISS repository for efficient keyword-based and semantic search.
 - Optimized performance and cost by deploying **GPT-2 and Google T5** locally, integrating Whisper for audio queries, and developing a **Flask** interface for seamless document retrieval and ML interactions.
 
